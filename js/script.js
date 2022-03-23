@@ -28,4 +28,3 @@ const loader = document.getElementById('preloader')
 setTimeout(function(){
   loader.style.display = 'none'
 }, 4000)
-
